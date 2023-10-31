@@ -1,0 +1,25 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    background-image: url("https://kipmu.ru/wp-content/uploads/oblaka-1.jpg");
+    background-color: #cccccc;
+}
+h1, 
+h2 {
+    text-align: center;
+    background-color: rgb(135, 247, 255);
+}
+.block {
+    background-color: white;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.425);
+    text-align: center;
+}
+.footer-content {
+        font-weight: bold;
+}
